@@ -4,7 +4,7 @@ version: 0.0.1
 homepage:
 
 environment:
-  sdk: '>=3.4.3 <4.0.0'
+  sdk: '>=3.0.5 <4.0.0'
   flutter: ">=3.3.0"
 
 dependencies:
@@ -12,10 +12,10 @@ dependencies:
     sdk: flutter
   flutter_web_plugins:
     sdk: flutter
-  plugin_platform_interface: ^2.1.8
-  flutter_svg: ^2.0.17
+  plugin_platform_interface: ^2.0.2
+  flutter_svg: ^2.0.9
   dropdown_button2: ^2.3.9
-  data_table_2: ^2.5.18
+  data_table_2: ^2.5.10
 #  video_player: ^2.8.1
 
 dev_dependencies:
