@@ -1,3 +1,4 @@
+/*
 import 'package:common_jds_flutter/common/styles/dimens.dart';
 import 'package:common_jds_flutter/widgets/custom_text/custom_text.dart';
 import 'package:common_jds_flutter/widgets/table/custom_table_widget.dart';
@@ -83,3 +84,4 @@ class _CustomTableWidgetPageState extends State<CustomTableWidgetPage> {
                 ])));
   }
 }
+*/

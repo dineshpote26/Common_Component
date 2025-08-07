@@ -117,13 +117,13 @@ class AppTheme {
         focusedBorder: inputBorder,
         border: inputBorder,
       ),
-      cardTheme: CardTheme(
+      cardTheme: CardThemeData(
         color: Colors.white.withOpacity(0.85),
         shape: RoundedRectangleBorder(
           borderRadius: 10.borderRadius,
         ),
       ),
-      dialogTheme: DialogTheme(
+      dialogTheme: DialogThemeData(
         backgroundColor: AppColors.white,
         shape: RoundedRectangleBorder(
           borderRadius: 20.borderRadius,

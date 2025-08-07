@@ -188,12 +188,12 @@ class AppPages {
                 return const CustomDialogWidgetPage();
               },
             ),
-            GoRoute(
+            /*GoRoute(
               path: _Paths.TABLE,
               builder: (BuildContext context, GoRouterState state) {
                 return const CustomTableWidgetPage();
               },
-            ),
+            ),*/
             GoRoute(
               path: _Paths.ACTION_DROPDOWN_PAGE,
               builder: (BuildContext context, GoRouterState state) {

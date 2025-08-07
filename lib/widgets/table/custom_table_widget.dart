@@ -1,10 +1,10 @@
+/*
 import 'package:common_jds_flutter/common/app_colors.dart';
 import 'package:common_jds_flutter/common/constants.dart';
 import 'package:common_jds_flutter/widgets/checkbox/checkbox_widget.dart';
 import 'package:common_jds_flutter/widgets/custom_text/custom_text.dart';
 import 'package:common_jds_flutter/widgets/hover/hover_widget.dart';
 import 'package:common_jds_flutter/widgets/table/sorting_arrow_widget.dart';
-import 'package:data_table_2/data_table_2.dart';
 import 'package:flutter/material.dart';
 
 enum SortingOrder { asc, desc }
@@ -369,3 +369,4 @@ class _CustomTableState extends State<CustomTable> {
     );
   }
 }
+*/

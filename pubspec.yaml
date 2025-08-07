@@ -15,7 +15,6 @@ dependencies:
   plugin_platform_interface: ^2.0.2
   flutter_svg: ^2.0.9
   dropdown_button2: ^2.3.9
-  data_table_2: ^2.5.10
 #  video_player: ^2.8.1
 
 dev_dependencies:
